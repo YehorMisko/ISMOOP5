@@ -1,0 +1,7 @@
+C:\Users\jayde\source\repos\OOP5\OOP5\obj\Debug\OOP5.csprojAssemblyReference.cache
+C:\Users\jayde\source\repos\OOP5\OOP5\obj\Debug\OOP5.csproj.CoreCompileInputs.cache
+C:\Users\jayde\source\repos\OOP5\OOP5\bin\Debug\OOP5.exe.config
+C:\Users\jayde\source\repos\OOP5\OOP5\bin\Debug\OOP5.exe
+C:\Users\jayde\source\repos\OOP5\OOP5\bin\Debug\OOP5.pdb
+C:\Users\jayde\source\repos\OOP5\OOP5\obj\Debug\OOP5.exe
+C:\Users\jayde\source\repos\OOP5\OOP5\obj\Debug\OOP5.pdb
